@@ -93,7 +93,7 @@ Here's a practical example, using the FAA dataset. Let's say you want to filter 
 .. raw:: html
     :file: ../../terminal/output/filtering-04-freq-airport.output.html
 
-- Then, select the top five entries (skipping ``UNKNOWN``):
+- Then, press :kbd:`j` to move cursor one line down (skipping ``UNKNOWN``) and press :kbd:`s` 5 times to select the top five entries:
 
 .. raw:: html
     :file: ../../terminal/output/filtering-05-freq-multiselect.output.html
